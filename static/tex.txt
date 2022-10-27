@@ -1,0 +1,3 @@
+im in notpad in tex.txt
+git diff is used to compare staging area and working area
+and git diff --staged is used to compare last commit with current staging area
